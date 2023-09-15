@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        FizzBuzzWhile.main();
-
-        FizzBuzzWhile.doFizzBuzz
+        FizzBuzz.main();
+        FizzBuzz.doFizzBuzz(5)
     }
 }
